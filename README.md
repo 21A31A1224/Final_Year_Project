@@ -1,1 +1,2 @@
-# Final_Year_Project
+# Final_Year_Project (Smart Gesture Recognition and Cursor Control System)
+A smart gesture recognition and cursor control system uses hand gestures to control a computer's mouse cursor, enabling touchless interaction. It typically employs a webcam or other sensors to capture hand movements, then uses computer vision and machine learning algorithms to interpret these movements as commands for the cursor. This allows users to move, click, and scroll the cursor with hand gestures, providing an alternative to traditional mouse or touch input. 
